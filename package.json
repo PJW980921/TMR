@@ -1,0 +1,11 @@
+{
+  "name": "TMR",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.3.1",
+  "devDependencies": {
+    "nx": "19.4.1"
+  }
+}
